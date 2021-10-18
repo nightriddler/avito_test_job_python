@@ -58,3 +58,10 @@ assert loop.run_until_complete(get_matrix(SOURCE_URL)) == TRAVERSAL
     assert get_spiral([[10]]) == [10]
     assert get_spiral([[]]) == []
 ```
+
+## Связаться с автором
+>[LinkedIn](http://linkedin.com/in/aizi)
+
+>[Telegram](https://t.me/nightriddler)
+
+>[Портфолио](https://github.com/nightriddler)
